@@ -1,0 +1,32 @@
+h1 {
+    
+    color: black;
+    margin-left: 40%;
+}
+
+.bank{
+    display: inline-block;
+    background-color: rgb(237, 235, 235);
+    border: 4px solid black;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 250px;
+    
+    
+}
+
+#loan-button{
+    background-color: green;
+}
+#work-button{
+    background-color: rgb(78, 78, 250);
+    display: inline-block;
+}
+#bank-button{
+    background-color: yellow;
+    display: inline-block;
+}
+#outstanding-loan{
+    display:block
+}
